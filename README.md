@@ -2,8 +2,8 @@
 A batch image resizer written in python.
 
 A friend of mine needed a batch image resizer with some spesific constraints:
-- The images need to be downsized to spesific sizes (7 different sizes to be exact) like: 1024x768, 640x480 etc.
-- The images need to be smaller than 100kb.
+- The images needed to be downsized to spesific sizes (7 different sizes to be exact) like: 1024x768, 640x480 etc.
+- The images needed to be smaller than 100kb.
 
 He was struggling to resize the images every time manually, creating several copies of images and reducing the JPEG quality until it is smaller than 100kb. It took too much time and effort for a simple automatable task. So I wrote a simple python code with a basic UI. While I was at it, I isolated the core part into another module and programmed 3 different user modules:
 - A desktop application using tkinter. It allows user to batch resize images directly on a pc.
