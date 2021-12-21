@@ -23,3 +23,5 @@ Images are resized on the fly and brute forced to worse qualities until they con
 <p align="center">
   <img width="849" src="https://github.com/basarozogut/BatchImageResizer/blob/main/preview/preview_download.png">
 </p>
+
+If you want to give it a try, download/clone the repository, copy the config.ini.sample as config.ini and fill in the required fields.
