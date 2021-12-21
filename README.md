@@ -1,5 +1,5 @@
 # BatchImageResizer
-A batch image resizer, written in python.
+A batch image resizer written in python.
 
 A friend of mine needed a batch image resizer with some spesific constraints:
 - The images need to be downsized to spesific sizes (7 different sizes to be exact) like: 1024x768, 640x480 etc.
