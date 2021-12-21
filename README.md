@@ -25,3 +25,4 @@ Images are resized on the fly and brute forced to worse qualities until they con
 </p>
 
 If you want to give it a try, download/clone the repository, copy the config.ini.sample as config.ini and fill in the required fields.
+**Dependencies:** PIL for every module, cherrypy for web application, telegram.ext for telegram bot.
