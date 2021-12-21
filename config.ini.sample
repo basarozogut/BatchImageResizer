@@ -1,0 +1,6 @@
+[DEFAULT]
+ImageSizes = 640x480,320x240,120x120
+
+[telegram_bot]
+Usernames = @telegram_user_1,@telegram_user_2
+ApiToken = 123:ABC
