@@ -1,4 +1,4 @@
-# BatchImageResizer
+# Batch Image Resizer
 A batch image resizer written in python.
 
 A friend of mine needed a batch image resizer with some spesific constraints:
